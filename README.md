@@ -1,2 +1,2 @@
 # logan-is-dumb
-logan is a fool
+I created this repository to prove that Logan is dumb and I am smart.
